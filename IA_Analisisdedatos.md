@@ -67,11 +67,10 @@ Aunque Google Cloud AI tiene un gran potencial para optimizar procesos y mejorar
 
 - **Emisiones de carbono**: Aunque Google ha invertido en energías renovables para sus centros de datos, la gran escala de operaciones de Google Cloud AI sigue contribuyendo a las emisiones de carbono, especialmente en áreas donde la energía renovable es menos accesible.
 
-#### Diagrama de Impacto Ambiental de Google Cloud AI
+ Impacto Ambiental de Google Cloud AI
 
 (https://cloud.google.com/sustainability?hl=es)
 
-*Diagrama que ilustra los impactos ambientales relacionados con el uso de Google Cloud AI en el análisis de datos.*
 
 ---
 
