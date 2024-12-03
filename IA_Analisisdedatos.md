@@ -1,4 +1,4 @@
-# Manual sobre les IAs relacionades amb la Informàtica (ASIX)
+# Manual sobre les IAs de Analisis de Datos
 
 Aquest manual presenta un anàlisi sobre les Intel·ligències Artificial (IA) utilitzades en els camps d'anàlisis de dades i desenvolupament en l'àmbit de la informàtica, amb un enfocament especial en el seu impacte al sector i al medi ambient, així com les propostes per minimitzar aquest impacte.
 
