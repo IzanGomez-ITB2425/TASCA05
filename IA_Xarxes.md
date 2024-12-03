@@ -1,4 +1,6 @@
-# Cisco AI Network Analytics para Implentar Redes
+# Cisco AI Network Analytics: Una Guía Completa
+
+![Cisco AI Network Analytics Banner](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/digital-network-architecture/ai-network-analytics-hero.png)
 
 Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manual está diseñado para ayudarte a entender, implementar y aprovechar al máximo esta poderosa herramienta para optimizar y gestionar redes utilizando Inteligencia Artificial.
 
@@ -28,7 +30,7 @@ Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manu
    - [Componentes](#componentes)
    - [Integración con Infraestructura Existente](#integración-con-infraestructura-existente)
 8. [Casos de Uso](#casos-de-uso)
-   - [Optimización de Rendimiento](#optimización-de-rendimiento)
+   - [Optimización de Rendimiento](#optimización-de-rendimiento-1)
    - [Mejora de la Experiencia del Usuario](#mejora-de-la-experiencia-del-usuario)
    - [Seguridad de la Red](#seguridad-de-la-red)
 9. [Implementación](#implementación)
@@ -45,7 +47,9 @@ Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manu
 
 ## Introducción
 
-Cisco AI Network Analytics es una solución que utiliza Inteligencia Artificial y Aprendizaje Automático para proporcionar insights profundos y mejorar la gestión de redes. Al analizar grandes cantidades de datos de red, permite a los administradores identificar y resolver problemas antes de que afecten a los usuarios.
+**Cisco AI Network Analytics** es una solución que utiliza Inteligencia Artificial y Aprendizaje Automático para proporcionar insights profundos y mejorar la gestión de redes. Al analizar grandes cantidades de datos de red, permite a los administradores identificar y resolver problemas antes de que afecten a los usuarios.
+
+![Diagrama de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-overview.png)
 
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
@@ -114,6 +118,10 @@ El elevado consumo energético contribuye al aumento de la huella de carbono aso
 - **Emisiones de CO2**: La generación de energía suele implicar la quema de combustibles fósiles.
 - **Impacto Climático**: Contribución al cambio climático global.
 
+![Impacto Ambiental de la Tecnología](https://www.example.com/imagen-impacto-ambiental.png)
+
+*Nota: Imagen ilustrativa del impacto ambiental de la tecnología.*
+
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
 ---
@@ -148,6 +156,8 @@ Identifica comportamientos inusuales en el tráfico de red que podrían indicar 
 
 Proporciona sugerencias específicas para resolver problemas detectados, facilitando la toma de decisiones.
 
+![Flujo de Trabajo de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-workflow.png)
+
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
 ---
@@ -163,6 +173,8 @@ Proporciona sugerencias específicas para resolver problemas detectados, facilit
 ### Integración con Infraestructura Existente
 
 Cisco AI Network Analytics se integra con los dispositivos y software de Cisco existentes, facilitando su adopción sin necesidad de grandes cambios en la infraestructura.
+
+![Arquitectura de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-architecture.png)
 
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
@@ -200,60 +212,9 @@ Cisco AI Network Analytics se integra con los dispositivos y software de Cisco e
 
 1. **Actualizar Dispositivos**: Asegurarse de que los dispositivos ejecutan el software compatible.
 2. **Configurar Sensores**: Habilitar la recopilación de datos.
-3. **Activar Cisco AI Network Analytics** en Cisco DNA Center.
-4. **Monitorear y Ajustar**: Revisar los insights proporcionados y aplicar recomendaciones.
 
-[Guía de Implementación de Cisco AI Network Analytics](https://www.cisco.com/c/en/us/td/docs/solutions/CVD/Campus/dnac-network-ai-analytics.html)
+   ```bash
+   # Ejemplo de comando para habilitar sensores
+   device(config)# sensor enable
 
-[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
-
----
-
-## Mejores Prácticas
-
-### Mantenimiento Continuo
-
-- **Actualizaciones Regulares**: Mantener el software y firmware actualizados.
-- **Monitoreo Constante**: Revisar periódicamente los insights y alertas.
-
-### Escalabilidad
-
-- **Planificación**: Considerar el crecimiento futuro de la red.
-- **Optimización de Recursos**: Asegurar que la infraestructura soporta la carga de trabajo.
-
-[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
-
----
-
-## Recursos Adicionales
-
-- **Documentación Oficial de Cisco**: [Centro de Documentación](https://www.cisco.com/c/es_es/support/index.html)
-- **Cursos y Formación**:
-  - [Cisco Digital Learning](https://www.cisco.com/c/es_es/training-events/training-certifications/digital-learning.html)
-- **Comunidad de Soporte**:
-  - [Cisco Support Community](https://community.cisco.com/)
-
-[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
-
----
-
-## Contribuir
-
-¡Se aceptan contribuciones! Si deseas mejorar esta guía, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b feature/TuCaracterística`
-3. Realiza tus cambios y confirma: `git commit -am 'Agrega tu característica'`
-4. Sube a la rama: `git push origin feature/TuCaracterística`
-5. Abre un Pull Request.
-
-[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
-
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
