@@ -4,6 +4,9 @@
 
 [Enlace a Zendesk](https://www.zendesk.es/)
 
+
+---
+
 ## Índice
 
 1. [Aplicaciones de la IA en Zendesk](#aplicaciones-de-la-ia-en-zendesk)
