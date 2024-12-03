@@ -1,4 +1,4 @@
-# Cisco AI Network Analytics: Una Guía Completa
+# Cisco AI Network Analytics para Implentar Redes
 
 Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manual está diseñado para ayudarte a entender, implementar y aprovechar al máximo esta poderosa herramienta para optimizar y gestionar redes utilizando Inteligencia Artificial.
 
