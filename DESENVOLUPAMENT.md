@@ -1,5 +1,12 @@
 # Manual d'Ús de Darktrace: Eina d'Intel·ligència Artificial per a Ciberseguretat
 
+Darktrace es una empresa británica fundada en 2013 que desarrolla soluciones de ciberseguridad basadas en inteligencia artificial (IA). Su plataforma utiliza algoritmos de autoaprendizaje para detectar y responder a amenazas cibernéticas en tiempo real, protegiendo diversos entornos como redes, sistemas de control industrial, entornos en la nube, SaaS, correo electrónico, dispositivos endpoint e IoT. 
+SISTEMAS SEMÁNTICOS
+
+Aunque Darktrace emplea IA en sus productos, su enfoque principal es la ciberseguridad, no el desarrollo de software. Por lo tanto, no se clasifica como una herramienta de desarrollo con inteligencia artificial. Sin embargo, su tecnología puede ser relevante para desarrolladores en el contexto de asegurar aplicaciones y sistemas durante el ciclo de desarrollo, proporcionando detección temprana de vulnerabilidades y amenazas que podrían comprometer la seguridad del software en desarrollo.
+
+En resumen, Darktrace no es una herramienta de desarrollo de software basada en IA, sino una solución de ciberseguridad que utiliza IA para proteger infraestructuras digitales. Su relevancia para los desarrolladores radica en la capacidad de integrar medidas de seguridad efectivas en el proceso de desarrollo, garantizando que las aplicaciones sean resistentes a posibles ciberamenazas.
+
 ## Les Aplicacions de la IA
 
 **Darktrace** és una solució avançada de ciberseguretat que utilitza la intel·ligència artificial i l'aprenentatge automàtic per proporcionar una protecció integral contra amenaces cibernètiques cada vegada més sofisticades. Desenvolupada per experts en matemàtiques i intel·ligència de la Universitat de Cambridge, Darktrace és capaç d'entendre el "patró de vida" de cada dispositiu, usuari i xarxa dins d'una organització, permetent així detectar i respondre a anomalies en temps real.
