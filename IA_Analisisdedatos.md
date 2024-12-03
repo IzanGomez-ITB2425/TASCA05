@@ -38,7 +38,7 @@ Google Cloud AI proporciona una variedad de herramientas que permiten aplicar in
 
 #### Diagrama de Aplicaciones de Google Cloud AI en el Análisis de Datos
 
-![Diagrama de Aplicaciones de Google Cloud AI](path/to/diagrama_aplicaciones_google_cloud_ai.png)
+![Diagrama de Aplicaciones de Google Cloud AI](https://drive.google.com/file/d/1NTqLOr11atYb-uZaaibNzGe8AzS4-TYL/view)
 
 *Diagrama que ilustra las principales aplicaciones de Google Cloud AI en el análisis de datos.*
 
