@@ -20,6 +20,9 @@
 
 Per obtenir més informació sobre les capacitats de Darktrace, pots visitar el seu [lloc web oficial](https://www.darktrace.com/es/).
 
+
+
+
 ## Impacte al Sector
 
 La implementació de Darktrace ha suposat una transformació significativa en el sector de la ciberseguretat. Amb l'augment exponencial de les amenaces cibernètiques i la sofisticació dels atacs, les organitzacions necessiten solucions que puguin anticipar i respondre a aquestes amenaces de manera eficient.
@@ -43,6 +46,9 @@ Darktrace ha estat reconeguda per analistes i experts en ciberseguretat a nivell
 - **Gartner Cool Vendor**: Reconeguda per Gartner per la seva innovació en ciberseguretat.
 - **Forbes Cloud 100**: Inclosa en la llista de les empreses més importants en tecnologies en núvol.
 - **Infosecurity Global Excellence Awards**: Premi a la millor solució de ciberseguretat basada en IA.
+
+
+
 
 ## Impacte Ambiental
 
@@ -87,6 +93,10 @@ Segons un informe de la [Agència Internacional de l'Energia](https://www.iea.or
 - **ISO 14001**: Estàndard internacional per a sistemes de gestió ambiental que pot ajudar les organitzacions a estructurar els seus esforços de sostenibilitat.
 
 - **Informe sobre Centres de Dades i Xarxes de Transmissió**: Publicat per la [Agència Internacional de l'Energia](https://www.iea.org/reports/data-centres-and-data-transmission-networks).
+
+
+
+
 
 ## Conclusions
 
