@@ -1,6 +1,8 @@
 # Zendesk: Asistente Virtual para Soporte Técnico
-https://www.zendesk.es/
+
 ![image](https://github.com/user-attachments/assets/872086b8-117a-4689-abc8-d11e0060d5df)
+
+https://www.zendesk.es/
 
 ## Aplicaciones de la IA en Zendesk
 
