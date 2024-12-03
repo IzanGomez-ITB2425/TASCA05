@@ -37,7 +37,8 @@ Google Cloud AI proporciona una variedad de herramientas que permiten aplicar in
 - **AI Platform Notebooks**: Una herramienta para facilitar la creación, prueba y ejecución de modelos de machine learning, permitiendo a los analistas de datos desarrollar aplicaciones personalizadas de análisis de datos utilizando modelos entrenados.
 
 
-![image](https://github.com/user-attachments/assets/9d000807-01bc-4d8f-8e10-889d36505846)
+![image](![image](https://github.com/user-attachments/assets/d4a4808b-fc9e-4444-b71a-25138ded4271)
+)
 ---
 
 ## Impacto en el Sector
