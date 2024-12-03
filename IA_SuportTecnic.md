@@ -32,4 +32,4 @@ Para reducir el impacto ambiental de Zendesk y otras herramientas basadas en IA,
 - **Mejora en la eficiencia de los algoritmos**: Desarrollar modelos de IA más eficientes que consuman menos recursos computacionales.
 - **Uso de tecnologías de computación en el borde**: Descentralizar el procesamiento de datos para reducir la carga en los centros de datos.
 
-![Diagrama de la infraestructura de Zendesk](https://via.placeholder.com/600x300?text=Diagrama+Zendesk)
+![Diagrama de la infraestructura de Zendesk]![image](https://github.com/user-attachments/assets/a6f3897a-b042-4e45-bbfa-a506eba99cb0)
