@@ -1,47 +1,30 @@
-# Manual d'ús de la IA en el suport tècnic (ASIX)
+# IA aplicada en soporte técnico: Asistentes Virtuales y Bots de Soporte
 
-A continuació, es presenten algunes de les **aplicacions de la Intel·ligència Artificial (IA)** relacionades amb la informàtica, especialment en el **Cicle Formatiu de Grau Superior en Administració de Sistemes Informàtics en Xarxa (ASIX)**. Aquest manual inclou els **impactes al sector**, l'**impacte ambiental** i **propostes per minimitzar els impactes ambientals**.
+## Aplicaciones de la IA
 
----
-
-## 1. IA aplicada en suport tècnic: Assistents Virtuals i Bots de Suport
-
-### Aplicacions de la IA
-
-Els assistents virtuals i bots de suport són eines que utilitzen IA per proporcionar respostes immediates a consultes, gestionar problemes en els sistemes i resoldre incidències de manera automatitzada. Algunes eines conegudes són:
+Los asistentes virtuales y bots de soporte son herramientas que utilizan IA para proporcionar respuestas inmediatas a consultas, gestionar problemas en los sistemas y resolver incidencias de manera automatizada. Algunas herramientas conocidas son:
 
 - **Zendesk**
 - **Freshdesk**
-  
-Aquestes eines utilitzen el processament de llenguatge natural (PLN) per analitzar les sol·licituds dels usuaris i proporcionar solucions ràpides.
 
-### Impacte al sector
+Estas herramientas utilizan el procesamiento de lenguaje natural (PLN) para analizar las solicitudes de los usuarios y proporcionar soluciones rápidas.
 
-L'ús de **assistents virtuals** millora significativament l'eficiència del suport tècnic. Els avantatges inclouen:
+## Impacto en el sector
 
-- Reducció del temps d'espera per als usuaris
-- Reducció de la càrrega laboral per a tècnics humans
-- Augment de la satisfacció dels clients per les respostes immediates
+El uso de **asistentes virtuales** mejora significativamente la eficiencia del soporte técnico. Las ventajas incluyen:
 
-### Impacte ambiental
+- Reducción del tiempo de espera para los usuarios.
+- Reducción de la carga laboral para los técnicos humanos.
+- Aumento de la satisfacción de los clientes por las respuestas inmediatas.
 
-El **processament massiu de dades** per part d'aquests sistemes d'IA pot generar un **alt consum energètic**, ja que els centres de dades necessiten molta potència per mantenir aquests serveis operatius.
+## Impacto ambiental
 
-### Propostes per minimitzar els impactes ambientals
+El **procesamiento masivo de datos** por parte de estos sistemas de IA puede generar un **alto consumo energético**, ya que los centros de datos necesitan mucha potencia para mantener estos servicios operativos.
 
-- **Optimització energètica dels centres de dades**: Utilitzar fonts d'energia renovable per alimentar els centres de dades.
-- **Millora dels algoritmes**: Desenvolupar models d'IA més eficients que utilitzin menys energia per aconseguir els mateixos resultats.
-- **Computació en la frontera**: Descentralitzar el processament de dades per reduir la càrrega als centres de dades.
+## Propuestas para minimizar los impactos ambientales
 
-![Diagrama de la infraestructura d'IA en suport tècnic](https://via.placeholder.com/600x300?text=Diagrama+IA+en+suport+tècnic)
+- **Optimización energética de los centros de datos**: Utilizar fuentes de energía renovable para alimentar los centros de datos.
+- **Mejora de los algoritmos**: Desarrollar modelos de IA más eficientes que utilicen menos energía para lograr los mismos resultados.
+- **Computación en el borde**: Descentralizar el procesamiento de datos para reducir la carga en los centros de datos.
 
----
-
-## Conclusió
-
-L'ús de la **Intel·ligència Artificial** en suport tècnic i la gestió d'infraestructures TI aporta **avantatges significatius**, com una major eficiència, seguretat i productivitat. No obstant això, també comporta **impactes ambientals**, com l'alta demanda energètica dels centres de dades i el processament massiu de dades. Per minimitzar aquests impactes, és essencial implementar estratègies com l'optimització de models, l'ús de fonts d'energia renovable i la virtualització.
-
-Per obtenir més informació, pots consultar els següents enllaços:
-
-- [GitHub - Intel·ligència Artificial i Informàtica](https://github.com)
-- [Què és la IA?](https://ca.wikipedia.org/wiki/Intel%C2%B7lig%C3%A8ncia_artificial)
+![Diagrama de la infraestructura de IA en soporte técnico](https://via.placeholder.com/600x300?text=Diagrama+IA+en+soporte+t%C3%A9cnico)
