@@ -1,6 +1,7 @@
 # Cisco AI Network Analytics: Una Guía Completa
 
-![Cisco AI Network Analytics Banner](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/digital-network-architecture/ai-network-analytics-hero.png)
+
+![image](https://github.com/user-attachments/assets/35f56a3f-205b-4ad2-8f7e-517ba770f703)
 
 Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manual está diseñado para ayudarte a entender, implementar y aprovechar al máximo esta poderosa herramienta para optimizar y gestionar redes utilizando Inteligencia Artificial.
 
@@ -36,13 +37,6 @@ Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manu
 9. [Implementación](#implementación)
    - [Requisitos Previos](#requisitos-previos)
    - [Pasos de Configuración](#pasos-de-configuración)
-10. [Mejores Prácticas](#mejores-prácticas)
-    - [Mantenimiento Continuo](#mantenimiento-continuo)
-    - [Escalabilidad](#escalabilidad)
-11. [Recursos Adicionales](#recursos-adicionales)
-12. [Contribuir](#contribuir)
-13. [Licencia](#licencia)
-
 ---
 
 ## Introducción
@@ -201,6 +195,7 @@ Cisco AI Network Analytics se integra con los dispositivos y software de Cisco e
 
 ---
 
+
 ## Implementación
 
 ### Requisitos Previos
@@ -212,9 +207,12 @@ Cisco AI Network Analytics se integra con los dispositivos y software de Cisco e
 
 1. **Actualizar Dispositivos**: Asegurarse de que los dispositivos ejecutan el software compatible.
 2. **Configurar Sensores**: Habilitar la recopilación de datos.
+3. **Activar Cisco AI Network Analytics** en Cisco DNA Center.
+4. **Monitorear y Ajustar**: Revisar los insights proporcionados y aplicar recomendaciones.
 
-   ```bash
-   # Ejemplo de comando para habilitar sensores
-   device(config)# sensor enable
+[Guía de Implementación de Cisco AI Network Analytics](https://www.cisco.com/c/en/us/td/docs/solutions/CVD/Campus/dnac-network-ai-analytics.html)
+
+[Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
+
 
 
