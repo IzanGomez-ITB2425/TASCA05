@@ -1,4 +1,10 @@
-# Índice
+# Zendesk: Asistente Virtual para Soporte Técnico
+
+![image](https://github.com/user-attachments/assets/872086b8-117a-4689-abc8-d11e0060d5df)
+
+[Enlace a Zendesk](https://www.zendesk.es/)
+
+## Índice
 
 1. [Aplicaciones de la IA en Zendesk](#aplicaciones-de-la-ia-en-zendesk)
 2. [Impacto en el sector](#impacto-en-el-sector)
@@ -6,13 +12,6 @@
 4. [Propuestas para minimizar los impactos ambientales](#propuestas-para-minimizar-los-impactos-ambientales)
 
 ---
-
-## Zendesk: Asistente Virtual para Soporte Técnico
-
-![image](https://github.com/user-attachments/assets/872086b8-117a-4689-abc8-d11e0060d5df)
-
-[Enlace a Zendesk](https://www.zendesk.es/)
-
 ### Aplicaciones de la IA en Zendesk
 **Zendesk** es una plataforma de soporte al cliente que utiliza la inteligencia artificial para mejorar la eficiencia del servicio al cliente. Sus principales aplicaciones incluyen:
 
