@@ -37,13 +37,19 @@ L'anàlisi de dades fa ús d'algoritmes d'IA per extreure informació útil de g
 - **Anàlisi de sentiment:** Ús de IA per determinar l'opinió pública a partir de textos, com ara comentaris a les xarxes socials.
 - **Optimització de processos:** Millora de la cadena de subministrament i processos de producció utilitzant models predictius.
 
+#### Diagrama d'Aplicacions de la IA en Anàlisi de Dades
+
+![Diagrama de Aplicacions de la IA](path/to/diagrama_aplicacions_IA.png)
+
+*Exemple d'un diagrama de flux que mostra les aplicacions de la IA en l'anàlisi de dades.*
+
 ### Impacte al Sector
 
 L'ús de la IA en l'anàlisi de dades ha transformat el sector de les empreses que treballen amb grans volums de dades, des de l'e-commerce fins als serveis financers.
 
 - **Millora de la presa de decisions:** La IA proporciona una visió més clara i detallada dels dades, augmentant la velocitat i precisió en la presa de decisions.
 - **Automatització de processos:** La IA redueix la necessitat d'intervenció humana, millorant l'eficiència operativa.
-  
+
 ### Impacte ambiental
 
 L'anàlisi de dades a gran escala requereix una gran quantitat d'energia per processar i emmagatzemar la informació.
@@ -51,12 +57,18 @@ L'anàlisi de dades a gran escala requereix una gran quantitat d'energia per pro
 - **Consum energètic:** Les infraestructures de dades necessàries per a l'anàlisi massiva generen una gran petjada de carboni.
 - **Generació de residus electrònics:** El ràpid avanç de la tecnologia fa que els equips informàtics es tornin obsolets ràpidament, afegint més residus al medi ambient.
 
+#### Diagrama d'Impacte Ambiental en Anàlisi de Dades
+
+![Diagrama d'Impacte Ambiental](path/to/diagrama_impacte_ambiental.png)
+
+*Diagrama il·lustrant el consum energètic i els residus generats per les tecnologies d'anàlisi de dades.*
+
 ### Propostes per minimitzar els impactes ambientals
 
 Algunes propostes inclouen:
 - **Optimització dels algorismes:** Fer que els models d'IA siguin més eficients per consumir menys recursos.
 - **Ús d'energia renovable:** Implementar servidors i centres de dades que utilitzin fonts d'energia renovable.
-- **Reciclatge tecnològic:** Promoure la reutilització de maquinari i reciclaje de components electrònics.
+- **Reciclatge tecnològic:** Promoure la reutilització de maquinari i reciclatge de components electrònics.
 
 ---
 
@@ -71,6 +83,12 @@ La IA juga un paper crucial en el desenvolupament de programari, des de la creac
 - **Optimització de codi:** Les IA poden analitzar el codi font i suggerir millores per a l'optimització.
 - **Testatge automàtic de programari:** Ús de IA per realitzar proves automàtiques de codi, detectant errors i vulnerabilitats.
 
+#### Diagrama de Aplicacions de la IA en Desenvolupament
+
+![Diagrama de Desenvolupament IA](path/to/diagrama_aplicacions_IA_desarrollament.png)
+
+*Exemple de diagrama que mostra les aplicacions de la IA en el desenvolupament de programari.*
+
 ### Impacte al Sector
 
 La IA està millorant els processos de desenvolupament de programari i creant noves oportunitats en àrees com l'automatització i la seguretat.
@@ -84,6 +102,12 @@ Tot i els beneficis, el desenvolupament de programari basat en IA també present
 
 - **Manteniment de servidors i infraestructures:** Els desenvolupadors necessiten poderosos recursos informàtics per entrenar models d'IA, la qual cosa incrementa l'ús d'energia.
 - **Creixement dels centres de dades:** El desenvolupament de noves aplicacions amb IA pot comportar una expansió de la infraestructura necessària per al seu manteniment.
+
+#### Diagrama d'Impacte Ambiental en Desenvolupament
+
+![Diagrama Impacte Ambiental Desenvolupament](path/to/diagrama_impacte_ambiental_desarrollo.png)
+
+*Diagrama mostrant els impactes ambientals associats amb els recursos necessaris per al desenvolupament de programari amb IA.*
 
 ### Propostes per minimitzar els impactes ambientals
 
