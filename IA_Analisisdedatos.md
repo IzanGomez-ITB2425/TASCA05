@@ -69,7 +69,7 @@ Aunque Google Cloud AI tiene un gran potencial para optimizar procesos y mejorar
 
 #### Diagrama de Impacto Ambiental de Google Cloud AI
 
-![Diagrama de Impacto Ambiental](path/to/diagrama_impacto_ambiental.png)
+(https://cloud.google.com/sustainability?hl=es)
 
 *Diagrama que ilustra los impactos ambientales relacionados con el uso de Google Cloud AI en el análisis de datos.*
 
