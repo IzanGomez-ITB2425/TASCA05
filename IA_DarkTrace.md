@@ -16,7 +16,7 @@ En resumen, Darktrace no es una herramienta de desarrollo de software basada en 
 
 - **Detecció d'Amenaces Internes i Externes**: A diferència dels sistemes tradicionals basats en regles i signatures, Darktrace utilitza models probabilístics per identificar comportaments inusuals que podrien indicar una amenaça interna, com un empleat maliciós, o externa, com un atac d'un hacker.
 
-- **Resposta Autònoma a Amenaces (Antigena)**: La funcionalitat [Antigena](https://www.darktrace.com/es/antigena) permet a Darktrace prendre mesures automàtiques per aturar o limitar l'impacte d'una amenaça en desenvolupament. Per exemple, pot aïllar un dispositiu infectat o bloquejar una connexió sospitosa sense interrompre les operacions normals.
+- **Resposta Autònoma a Amenaces (Antigena)**: La funcionalitat [Antigena](https://digitalhm.com/antigena-email-la-proteccion-definitiva-de-la-bandeja-de-entrada/) permet a Darktrace prendre mesures automàtiques per aturar o limitar l'impacte d'una amenaça en desenvolupament. Per exemple, pot aïllar un dispositiu infectat o bloquejar una connexió sospitosa sense interrompre les operacions normals.
 
 - **Visibilitat Completa de la Xarxa**: Darktrace proporciona una visió detallada de tot el trànsit de xarxa, incloent-hi dispositius IoT, sistemes SCADA i infraestructures en núvol. Aquesta visibilitat permet als equips de seguretat comprendre millor l'ecosistema digital i identificar punts febles.
 
@@ -45,7 +45,7 @@ La implementació de Darktrace ha suposat una transformació significativa en el
 
 - **Millora del Compliment Normatiu**: En oferir una traçabilitat completa de les activitats a la xarxa i eines per protegir dades sensibles, Darktrace ajuda les organitzacions a complir amb regulacions com el GDPR, HIPAA i altres estàndards de seguretat.
 
-- **Adaptabilitat a Diferents Sectors**: Empreses de diversos sectors, com ara finances, salut, energia, educació i govern, han adoptat Darktrace per protegir les seves infraestructures crítiques. Els casos d'ús van des de la protecció contra ransomware fins a la seguretat de sistemes industrials. Pots consultar els [estudis de cas](https://www.darktrace.com/es/case-studies) per veure exemples reals.
+- **Adaptabilitat a Diferents Sectors**: Empreses de diversos sectors, com ara finances, salut, energia, educació i govern, han adoptat Darktrace per protegir les seves infraestructures crítiques. Els casos d'ús van des de la protecció contra ransomware fins a la seguretat de sistemes industrials. Pots consultar els [estudis de cas](https://www.agenzianova.com/es/news/Darktrace%2C-la-empresa-del-empresario-Mike-Lynch%2C-tiene-estrechos-v%C3%ADnculos-con-la-inteligencia-israel%C3%AD/) per veure exemples reals.
 
 ### Reconeixement i Premis
 
@@ -59,7 +59,7 @@ Darktrace ha estat reconeguda per analistes i experts en ciberseguretat a nivell
 
 
 ## Impacte Ambiental
-
+![Logo Economia Verde](https://www.vivemasvidas.com/uploads/economia-verde-circular.jpg)
 Malgrat els nombrosos avantatges que ofereix Darktrace, és important considerar l'impacte ambiental associat a l'ús d'aquesta tecnologia.
 
 ### Factors d'Impacte
@@ -112,4 +112,4 @@ L'adopció de solucions avançades com Darktrace és essencial per a les organit
 
 ---
 
-*Aquest manual està disponible al nostre [repositori de GitHub](https://github.com/nomdelusuari/nomdelrepositori) per a més detalls i actualitzacions.*
+*Aquest manual està disponible al nostre [repositori de GitHub](https://github.com/IanFriasITB2425/TASCA05) per a més detalls i actualitzacions.*
