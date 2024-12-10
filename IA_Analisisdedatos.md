@@ -4,7 +4,7 @@ This manual provides an analysis of **Google Cloud AI**, an advanced artificial 
 
 ---
 
-## Table of Contents
+## Index
 1. [Introduction](#introduction)
 2. [Applications of Google Cloud AI in Data Analysis](#applications-of-google-cloud-ai-in-data-analysis)
 3. [Impact on the Industry](#impact-on-the-industry)
@@ -88,8 +88,8 @@ There are several strategies that Google and companies using Google Cloud AI can
 ## Conclusion
 
 Google Cloud AI is one of the most advanced platforms in data analysis, offering machine learning tools, natural language processing, and image analysis that are revolutionizing various industries. However, its intensive use of resources presents significant environmental challenges, such as high energy consumption and electronic waste generation. Through the use of renewable energy, algorithm optimization, and proper recycling, these impacts can be minimized, promoting a more sustainable future for artificial intelligence.
+[Subir al índice](#Index)
 
-[Subir al índice](#índice)
 ---
 
 
