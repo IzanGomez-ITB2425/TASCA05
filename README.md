@@ -3,7 +3,7 @@
 -
 # [Analisis de Datos](./IA_Analisisdedatos.md)
 
-# [Seguretat](./IA_DarkTracer.md)
+# [Seguretat](./IA_Seguretat.md)
 
 # [Suport Tecnic](./IA_SuportTecnic.md)
 
