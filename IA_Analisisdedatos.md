@@ -36,17 +36,31 @@ Google Cloud AI provides a variety of tools that allow the application of artifi
 
 - **AI Platform Notebooks**: A tool to facilitate the creation, testing, and running of machine learning models, allowing data analysts to develop custom data analysis applications using trained models.
 
-- # Data Analysis
-
 Query massive datasets with SQL, geospatial statistics, and BI tools that support both ad hoc and programmatic analysis, as well as data sharing.
 
-## Analytics Hub                |  Share large-scale data and statistics beyond organizational boundaries with a robust security and privacy framework.
-## BigQuery Analysis            |  Maximize your data analysis investments when running analytical queries on large datasets.
-## BigQuery ML                  |  Create and run machine learning models (ML) using GoogleSQL queries, and access LLMs and Cloud AI APIs for AI tasks such as text generation or automatic translation.
-## Dataproc                     |  Perform streaming, querying, and batch processing with a managed service for Apache Spark and Hadoop.
-## Earth Engine                 |  Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform large-scale geospatial processing using Google Cloud Platform technology.
-## Looker                       |  Access the most up-to-date and reliable version of your data, analyze it, and take appropriate actions.
-## Looker Studio                |  Tell compelling stories with data to improve business decision-making.
+## Analytics Hub
+Share large-scale data and statistics beyond organizational boundaries with a robust security and privacy framework.
+
+## BigQuery Analysis
+Maximize your data analysis investments when running analytical queries on large datasets.
+
+## BigQuery ML
+Create and run machine learning models (ML) using GoogleSQL queries, and access LLMs and Cloud AI APIs for AI tasks such as text generation or automatic translation.
+
+## Dataproc
+Perform streaming, querying, and batch processing with a managed service for Apache Spark and Hadoop.
+
+## Earth Engine
+Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform large-scale geospatial processing using Google Cloud Platform technology.
+
+## Looker
+Access the most up-to-date and reliable version of your data, analyze it, and take appropriate actions.
+
+## Looker Studio
+Tell compelling stories with data to improve business decision-making.
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/d4a4808b-fc9e-4444-b71a-25138ded4271)
