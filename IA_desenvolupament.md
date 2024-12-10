@@ -12,6 +12,17 @@
 - **Integració amb Editors**: S'integra amb editors populars com Visual Studio Code, Neovim i JetBrains IDEs.
 - **Aprenentatge Continu**: Millora els suggeriments a mesura que s'utilitza, adaptant-se al estil de codificació de l'usuari.
   ![](https://www.amitmerchant.com/images/copilot-chat-fix-error-code.png)
+## Utilizacio de Copilot
+***Per utilizar github copilor haurem de seguir el seguents pasos:***
+
+#### Asegurarte de tenir un compte a Github
+- si encara no la tens ves a [Github](https://github.com/)
+- Es necesari tenir un compte en Github amb una subscripcio activa per Github Copilot (individual o Empresarial)
+#### Descaregar en editor compatible
+Github Copilot funciona amb varis editors, els principals son:
+- Visual Studio Code ([Descarga VSC](https://code.visualstudio.com/download))
+- Neovim ([Descarga NV](https://sourceforge.net/projects/neovim.mirror/))
+- JetBrains IDEs ([IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=linux), [PyCharm](https://www.jetbrains.com/pycharm/download/?section=linux) )
 
 Per a més informació sobre les funcionalitats de GitHub Copilot, visita el seu [lloc web oficial](https://copilot.github.com/).
 
