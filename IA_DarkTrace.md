@@ -1,4 +1,5 @@
 # **Manual d'Ús de Darktrace: Eina d'Intel·ligència Artificial per a Ciberseguretat**
+![Logo Darktrace](https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/04/66146f42c9dbbd001e414b88-darktrace.png?auto=format,compress&fit=max&q=45&w=640&width=640)
 
 Darktrace es una empresa británica fundada en 2013 que desarrolla soluciones de ciberseguridad basadas en inteligencia artificial (IA). Su plataforma utiliza algoritmos de autoaprendizaje para detectar y responder a amenazas cibernéticas en tiempo real, protegiendo diversos entornos como redes, sistemas de control industrial, entornos en la nube, SaaS, correo electrónico, dispositivos endpoint e IoT. 
 SISTEMAS SEMÁNTICOS
