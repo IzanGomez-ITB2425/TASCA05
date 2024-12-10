@@ -43,8 +43,7 @@ Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manu
 
 **Cisco AI Network Analytics** es una solución que utiliza Inteligencia Artificial y Aprendizaje Automático para proporcionar insights profundos y mejorar la gestión de redes. Al analizar grandes cantidades de datos de red, permite a los administradores identificar y resolver problemas antes de que afecten a los usuarios.
 
-![Diagrama de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-overview.png)
-
+![image](https://github.com/user-attachments/assets/7be64b6a-f947-472a-b163-d339f7314c01)
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
 ---
@@ -112,7 +111,8 @@ El elevado consumo energético contribuye al aumento de la huella de carbono aso
 - **Emisiones de CO2**: La generación de energía suele implicar la quema de combustibles fósiles.
 - **Impacto Climático**: Contribución al cambio climático global.
 
-![Impacto Ambiental de la Tecnología](https://www.example.com/imagen-impacto-ambiental.png)
+![image](https://github.com/user-attachments/assets/8151a683-7af3-4676-9987-0e4c3a0703a9)
+
 
 *Nota: Imagen ilustrativa del impacto ambiental de la tecnología.*
 
