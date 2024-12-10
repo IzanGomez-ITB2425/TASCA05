@@ -16,13 +16,19 @@ Este manual presenta un análisis sobre **Google Cloud AI**, una plataforma avan
 
 ## Introducción
 
+[Subir al índice](#índice)
+
 **Google Cloud AI** es una suite de herramientas de inteligencia artificial de Google diseñada para ayudar a las empresas a analizar grandes volúmenes de datos de manera eficiente. A través de servicios como el análisis predictivo, el procesamiento de lenguaje natural y el aprendizaje automático, Google Cloud AI ofrece soluciones para resolver problemas complejos en diversas industrias, como el comercio, la salud, las finanzas y más.
 
 Aunque Google Cloud AI ofrece soluciones avanzadas que impulsan la innovación en el análisis de datos, también presenta ciertos desafíos, especialmente relacionados con el consumo de recursos y el impacto ambiental.
 
+[Ir a Aplicaciones de Google Cloud AI en el Análisis de Datos](#aplicaciones-de-google-cloud-ai-en-el-análisis-de-datos)
+
 ---
 
 ## Aplicaciones de Google Cloud AI en el Análisis de Datos
+
+[Subir al índice](#índice)
 
 Google Cloud AI proporciona una variedad de herramientas que permiten aplicar inteligencia artificial al análisis de datos, algunas de las cuales incluyen:
 
@@ -36,12 +42,13 @@ Google Cloud AI proporciona una variedad de herramientas que permiten aplicar in
 
 - **AI Platform Notebooks**: Una herramienta para facilitar la creación, prueba y ejecución de modelos de machine learning, permitiendo a los analistas de datos desarrollar aplicaciones personalizadas de análisis de datos utilizando modelos entrenados.
 
-
-![image](https://github.com/user-attachments/assets/d4a4808b-fc9e-4444-b71a-25138ded4271)
+[Ir a Impacto en el Sector](#impacto-en-el-sector)
 
 ---
 
 ## Impacto en el Sector
+
+[Subir al índice](#índice)
 
 El uso de Google Cloud AI para el análisis de datos ha transformado diversas industrias, proporcionando soluciones efectivas y escalables. Los impactos en los sectores incluyen:
 
@@ -55,9 +62,13 @@ El uso de Google Cloud AI para el análisis de datos ha transformado diversas in
 
 - **Automatización y eficiencia**: Google Cloud AI permite automatizar tareas que antes requerían intervención humana, como la clasificación de datos y la predicción de resultados. Esto mejora la eficiencia operativa y reduce los costos.
 
+[Ir a Impacto Ambiental](#impacto-ambiental)
+
 ---
 
 ## Impacto Ambiental
+
+[Subir al índice](#índice)
 
 Aunque Google Cloud AI tiene un gran potencial para optimizar procesos y mejorar la toma de decisiones, su uso intensivo de recursos computacionales plantea varios desafíos ambientales:
 
@@ -67,14 +78,13 @@ Aunque Google Cloud AI tiene un gran potencial para optimizar procesos y mejorar
 
 - **Emisiones de carbono**: Aunque Google ha invertido en energías renovables para sus centros de datos, la gran escala de operaciones de Google Cloud AI sigue contribuyendo a las emisiones de carbono, especialmente en áreas donde la energía renovable es menos accesible.
 
- Impacto Ambiental de Google Cloud AI
-
-(https://cloud.google.com/sustainability?hl=es)
-
+[Ir a Propuestas para Minimizar los Impactos Ambientales](#propuestas-para-minimizar-los-impactos-ambientales)
 
 ---
 
 ## Propuestas para Minimizar los Impactos Ambientales
+
+[Subir al índice](#índice)
 
 Existen varias estrategias que Google y las empresas que utilizan Google Cloud AI pueden implementar para reducir los impactos ambientales:
 
@@ -86,11 +96,13 @@ Existen varias estrategias que Google y las empresas que utilizan Google Cloud A
 
 - **Desarrollo de IA más eficiente**: A medida que los algoritmos de IA continúan evolucionando, es importante centrarse en crear modelos más eficientes que consuman menos recursos computacionales y, por lo tanto, reduzcan el impacto ambiental.
 
+[Ir a Conclusión](#conclusión)
+
 ---
 
 ## Conclusión
 
-Google Cloud AI es una de las plataformas más avanzadas en el análisis de datos, ofreciendo herramientas de machine learning, procesamiento de lenguaje natural y análisis de imágenes que están revolucionando diversas industrias. Sin embargo, su uso intensivo de recursos plantea desafíos ambientales significativos, como el alto consumo energético y la generación de residuos electrónicos. A través del uso de energías renovables, la optimización de algoritmos y el reciclaje adecuado, se pueden minimizar estos impactos y promover un futuro más sostenible para la inteligencia artificial.
+[Subir al índice](#índice)
 
----
+Google Cloud AI es una de las plataformas más avanzadas en el análisis de datos, ofreciendo herramientas de machine learning, procesamiento de lenguaje natural y análisis de imágenes que están revolucionando diversas industrias. Sin embargo, su uso intensivo de recursos plantea desafíos ambientales significativos, como el alto consumo energético y la generación de residuos electrónicos. A través del uso de energías renovables, la optimización de algoritmos y el reciclaje adecuado, se pueden minimizar estos impactos y promover un futuro más sostenible para la inteligencia artificial.
 
