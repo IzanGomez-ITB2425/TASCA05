@@ -1,7 +1,7 @@
 # TA05
 ***Projecte del Grup 5***
 -
-# [Analisis de Datos](./IA_Analisisdedatos.md)
+# [Analisis de Datos](./IA_Analisisdedades.md)
 
 # [Seguretat](./IA_Seguretat.md)
 
