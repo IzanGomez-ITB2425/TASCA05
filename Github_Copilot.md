@@ -3,7 +3,7 @@
 ## Les Aplicacions de la IA
 
 **GitHub Copilot** és un assistent de programació impulsat per intel·ligència artificial, desenvolupat conjuntament per GitHub i OpenAI. Utilitza algoritmes avançats de processament del llenguatge natural per suggerir línies de codi i funcions senceres a mesura que l'usuari escriu, millorant l'eficiència i productivitat en el desenvolupament de programari.
-
+![Github Copilot](/imagen/Github_copilot.jpeg)
 ### Característiques Principals
 
 - **Autocompletat Intel·ligent**: Suggeriments en temps real de línies de codi basats en el context del projecte.
