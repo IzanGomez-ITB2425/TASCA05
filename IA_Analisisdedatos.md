@@ -37,7 +37,7 @@ Google Cloud AI provides a variety of tools that allow the application of artifi
 - **AI Platform Notebooks**: A tool to facilitate the creation, testing, and running of machine learning models, allowing data analysts to develop custom data analysis applications using trained models.
 
 
-![image](![image](https://github.com/user-attachments/assets/3c200f58-7781-4ece-8fe5-c175dd7b4a82)
+(![image](https://github.com/user-attachments/assets/3c200f58-7781-4ece-8fe5-c175dd7b4a82)
 
 ---
 
