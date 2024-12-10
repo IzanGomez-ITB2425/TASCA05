@@ -33,6 +33,7 @@ L'arribada de GitHub Copilot ha tingut un impacte significatiu en el sector del 
 - **Privacitat i Compliment Normatiu**: L'ús de dades de codi públic per entrenar l'eina planteja qüestions sobre drets d'autor i privacitat.
 
 ## Impacte Ambiental
+![logo reciclaje](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh_TJZHNw5juE-RbMJnV9Ab9XEdRuzKaIIg&s)
 
 L'ús de GitHub Copilot també té implicacions ambientals que cal considerar.
 
