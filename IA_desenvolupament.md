@@ -11,6 +11,7 @@
 - **Suport a Múltiples Llenguatges**: Compatible amb una àmplia gamma de llenguatges de programació com Python, JavaScript, TypeScript, Ruby, Go, entre d'altres.
 - **Integració amb Editors**: S'integra amb editors populars com Visual Studio Code, Neovim i JetBrains IDEs.
 - **Aprenentatge Continu**: Millora els suggeriments a mesura que s'utilitza, adaptant-se al estil de codificació de l'usuari.
+  ![](https://www.amitmerchant.com/images/copilot-chat-fix-error-code.png)
 
 Per a més informació sobre les funcionalitats de GitHub Copilot, visita el seu [lloc web oficial](https://copilot.github.com/).
 
