@@ -66,6 +66,7 @@ While Google Cloud AI has great potential to optimize processes and improve deci
 - **Electronic Waste**: As technology advances, hardware upgrades are needed to support the demands of artificial intelligence algorithms. This generates electronic waste that can be difficult to recycle.
 
 - **Carbon Emissions**: Although Google has invested in renewable energy for its data centers, the large scale of Google Cloud AI operations continues to contribute to carbon emissions, especially in areas where renewable energy is less accessible.
+![image](https://github.com/user-attachments/assets/3ff5d312-55b5-4ef6-95cb-45f8f31d0b7b)
 
 
 [Environmental Impact of Google Cloud AI](https://cloud.google.com/sustainability?hl=es)
