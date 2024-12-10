@@ -150,7 +150,7 @@ Identifica comportamientos inusuales en el tráfico de red que podrían indicar 
 
 Proporciona sugerencias específicas para resolver problemas detectados, facilitando la toma de decisiones.
 
-![Flujo de Trabajo de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-workflow.png)
+![image](https://github.com/user-attachments/assets/6e069a63-23b0-4cb5-b7b1-7f296b5eb42a)
 
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
@@ -167,8 +167,6 @@ Proporciona sugerencias específicas para resolver problemas detectados, facilit
 ### Integración con Infraestructura Existente
 
 Cisco AI Network Analytics se integra con los dispositivos y software de Cisco existentes, facilitando su adopción sin necesidad de grandes cambios en la infraestructura.
-
-![Arquitectura de Cisco AI Network Analytics](https://www.cisco.com/c/dam/en/us/solutions/enterprise-networks/ai-network-analytics/dna-center-ai-analytics-architecture.png)
 
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
