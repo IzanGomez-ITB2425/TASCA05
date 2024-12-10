@@ -82,6 +82,8 @@ There are several strategies that Google and companies using Google Cloud AI can
 - **Recycling Equipment**: Encourage the reuse and recycling of hardware to prevent the accumulation of electronic waste. Additionally, promoting the manufacturing of more sustainable devices with recyclable components can reduce environmental impact.
 
 - **Development of More Efficient AI**: As AI algorithms continue to evolve, it is important to focus on creating more efficient models that consume fewer computational resources, thereby reducing the environmental impact.
+  
+[Index](#Index)
 
 ---
 
