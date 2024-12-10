@@ -73,6 +73,9 @@ Para reducir el impacto ambiental de Zendesk y otras herramientas basadas en IA,
 #### **Compensación de Carbono**:  
    Además de mejorar la eficiencia energética, las empresas pueden invertir en **proyectos de compensación de carbono**, como la reforestación o el apoyo a iniciativas de energía renovable, para neutralizar las emisiones de carbono generadas por sus operaciones. Esto ayuda a equilibrar el impacto ambiental de las tecnologías que consumen muchos recursos.
 
+![image](https://github.com/user-attachments/assets/dc2468be-78a8-4ae7-b45b-3307ba953907)
+
+
 ---
 
 ### [Volver arriba](#índice)
