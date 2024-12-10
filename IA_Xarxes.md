@@ -46,6 +46,7 @@ Bienvenido a la guía definitiva sobre **Cisco AI Network Analytics**. Este manu
 ![image](https://github.com/user-attachments/assets/7be64b6a-f947-472a-b163-d339f7314c01)
 [Volver arriba](#cisco-ai-network-analytics-una-guía-completa)
 
+> "El uso de la Inteligencia Artificial permite una mejor gestión de redes, lo que ayuda a las organizaciones a ser más ágiles y reducir los costos operativos." – [Cisco](https://www.cisco.com)
 ---
 
 ## Las Aplicaciones de la IA
@@ -84,6 +85,8 @@ La integración de la IA en la gestión de redes impulsa la transformación digi
 - **Innovación**: Desarrollo de nuevas soluciones y servicios.
 - **Competitividad**: Ventaja sobre las organizaciones que no adoptan la IA.
 
+> "La transformación digital está siendo impulsada por la inteligencia artificial, que permite a las empresas adaptarse a los cambios rápidamente y ofrecer mejores servicios." – [Gartner](https://www.gartner.com)
+
 ### Eficiencia Operativa
 
 La IA mejora la eficiencia operacional reduciendo tareas manuales y minimizando errores humanos.
@@ -103,6 +106,8 @@ Los sistemas de IA pueden consumir cantidades significativas de energía durante
 
 - **Centros de Datos**: Requieren refrigeración y suministro energético constantes.
 - **Dispositivos de Red**: El aumento en el procesamiento de datos incrementa el consumo de energía.
+
+> "El consumo energético de los centros de datos es uno de los mayores desafíos medioambientales asociados con la inteligencia artificial y el aprendizaje automático." – [The New York Times](https://www.nytimes.com)
 
 ### Huella de Carbono
 
