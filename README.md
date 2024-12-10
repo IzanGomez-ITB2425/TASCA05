@@ -1,14 +1,14 @@
 # TA05
 **Projecte del Grup 5**
 -
-### [Analisis de Dades](./IA_Analisisdedades.md)
+### 1. [Analisis de Dades](./IA_Analisisdedades.md)
 
-### [Seguretat](./IA_Seguretat.md)
+### 2. [Seguretat](./IA_Seguretat.md)
 
-### [Suport Tecnic](./IA_SuportTecnic.md)
+### 3. [Suport Tecnic](./IA_SuportTecnic.md)
 
-### [Desenvolupament](./IA_desenvolupament.md)
+### 4. [Desenvolupament](./IA_desenvolupament.md)
 
-### [Xarxes](./IA_Xarxes.md)
+### 5. [Xarxes](./IA_Xarxes.md)
 
 ![](https://geekland.eu/wp-content/uploads/2019/04/aprender-markdown.png)
