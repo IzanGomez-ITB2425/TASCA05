@@ -1,4 +1,4 @@
-<p style="color🚙">**TA05**</p>  
+<span style="color🚙">TA05</span>  
 
 **Projecte del Grup 5**
 -
