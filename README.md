@@ -11,6 +11,5 @@
 
 ### 5. [Xarxes](./IA_Xarxes.md)
 
-<p style="color:red">Ketra</p>
 
 ![](https://geekland.eu/wp-content/uploads/2019/04/aprender-markdown.png)
