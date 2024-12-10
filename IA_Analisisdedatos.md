@@ -38,7 +38,6 @@ Google Cloud AI provides a variety of tools that allow the application of artifi
 
 
 ![image](![image](https://github.com/user-attachments/assets/3c200f58-7781-4ece-8fe5-c175dd7b4a82)
-)
 
 ---
 
