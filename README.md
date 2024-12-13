@@ -12,4 +12,5 @@
 ### 5. [Xarxes](./IA_Xarxes.md)
 
 
-![](https://geekland.eu/wp-content/uploads/2019/04/aprender-markdown.png)
+![image](https://github.com/user-attachments/assets/8e038373-a56b-4b74-8b2e-84c046cd4b6a)
+
