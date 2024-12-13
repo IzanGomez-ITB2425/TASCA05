@@ -11,8 +11,8 @@
 
 ### 5. [Xarxes](./IA_Xarxes.md)
 
+# ![image](https://github.com/user-attachments/assets/6f531ef2-7dd4-445e-bafd-f923aa6d6a5b)
 
-![image](https://github.com/user-attachments/assets/85d3b4b5-3a53-4563-bbd2-53d61999af71)
 
 
 
