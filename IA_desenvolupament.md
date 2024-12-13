@@ -59,7 +59,13 @@ def suma(a, b):
     - Ctrl + [ (Windows/Linux): Veure la opcio anterior
       
 ### Personalizació de Copilot
-
+#### Ajustar les preferencies 
+- En VS Code, ves a ***settings*** i busca "Copilot"
+- Configura opcions com:
+    - Habilitar/Desabilitar en algus llenguatlles
+    - Aceptar sugerencies automaticament o manualment
+#### Limita el ambit de les sugerencies
+si estas treballant en proyectes especifics, Copilot pot ajustarse per tal de oferir nomes sugerencies relevants.
 
 Per a més informació sobre les funcionalitats de GitHub Copilot, visita el seu [lloc web oficial](https://copilot.github.com/).
 
