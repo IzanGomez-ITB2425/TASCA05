@@ -32,10 +32,34 @@ Github Copilot funciona amb varis editors, els principals son:
 - Instala la extensió corresponen.
   
 ### Configuracio de Github Copilot
--Inicia sesio en la teva sessio de github.
+- Inicia sesio en la teva sessio de github.
 #### Activa Github Copilot
--Ve a [Github Copilot Dashboard](https://github.com/features/copilot)
--Asegurat de tenir activa la subscripcio.
+- Ve a [Github Copilot Dashboard](https://github.com/features/copilot)
+- Asegurat de tenir activa la subscripcio.
+- Configura les teves preferencies si es necesari.
+
+### Utilizació de Copilot
+#### Escriu codi per rebre sugerencies
+Github Copilor comença a oferir sugerencies automaticament mentres escrius codig.
+##### Exemple:
+- Abre en archivo en ru editor (ex: script.py para python)
+- Escribe lo que quieres hacer:
+```python
+#funcion para calcular la suma de dos numeros
+```
+-Github Copilor et generara automaticament el codig corresponent:
+```python
+def suma(a, b):
+  return a + b
+```
+#### Navega per les sugerencies
+- si hi ha moltes sugerencies pots utiilzar:
+    - Tab: Acepta la sugerencia actual
+    - Ctrl + ] (Windows/Linux): veure la seguent opcio
+    - Ctrl + [ (Windows/Linux): Veure la opcio anterior
+      
+### Personalizació de Copilot
+
 
 Per a més informació sobre les funcionalitats de GitHub Copilot, visita el seu [lloc web oficial](https://copilot.github.com/).
 
