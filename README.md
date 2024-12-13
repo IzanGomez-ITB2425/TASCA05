@@ -12,6 +12,7 @@
 ### 5. [Xarxes](./IA_Xarxes.md)
 
 
-![image](https://github.com/user-attachments/assets/c1e5b912-4c26-4436-a28e-179842a30fb7)
+![image](https://github.com/user-attachments/assets/85d3b4b5-3a53-4563-bbd2-53d61999af71)
+
 
 
