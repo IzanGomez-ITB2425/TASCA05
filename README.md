@@ -1,4 +1,4 @@
-# TA05
+ # TA05
 **Projecte del Grup 5**
 -
 ### 1. [Analisis de Dades](./IA_Analisisdedades.md)
@@ -12,5 +12,6 @@
 ### 5. [Xarxes](./IA_Xarxes.md)
 
 
-![image](https://github.com/user-attachments/assets/8e038373-a56b-4b74-8b2e-84c046cd4b6a)
+![image](https://github.com/user-attachments/assets/c1e5b912-4c26-4436-a28e-179842a30fb7)
+
 
